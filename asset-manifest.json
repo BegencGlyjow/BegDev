@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BegDev.github.io/static/css/main.a4646b93.css",
+    "main.js": "/BegDev.github.io/static/js/main.1ed6fd52.js",
+    "static/js/787.30237536.chunk.js": "/BegDev.github.io/static/js/787.30237536.chunk.js",
+    "static/media/BG.jpg": "/BegDev.github.io/static/media/BG.13c94063b4331766c476.jpg",
+    "static/media/linux.svg": "/BegDev.github.io/static/media/linux.819fe3f9553ed05f38fd412c04747927.svg",
+    "static/media/Montserrat-Bold.ttf": "/BegDev.github.io/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-Medium.ttf": "/BegDev.github.io/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/composer.svg": "/BegDev.github.io/static/media/composer.0a0ff3ebd3c5a4e43dbd3a5568def4bb.svg",
+    "static/media/js.png": "/BegDev.github.io/static/media/js.d4352330e50b310fa0f9.png",
+    "static/media/debian.svg": "/BegDev.github.io/static/media/debian.1348a1ee2b9454ca8e119d7ff285e6bf.svg",
+    "static/media/mysql.svg": "/BegDev.github.io/static/media/mysql.0697e026464104aea8919845703174b9.svg",
+    "static/media/laravel.svg": "/BegDev.github.io/static/media/laravel.d0cb2f2a087d322fda99dbfed23efe11.svg",
+    "static/media/github.svg": "/BegDev.github.io/static/media/github.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/redux.svg": "/BegDev.github.io/static/media/redux.71eb13e2fdd1de624e9a856125906e3b.svg",
+    "index.html": "/BegDev.github.io/index.html",
+    "static/media/react.svg": "/BegDev.github.io/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.a4646b93.css.map": "/BegDev.github.io/static/css/main.a4646b93.css.map",
+    "main.1ed6fd52.js.map": "/BegDev.github.io/static/js/main.1ed6fd52.js.map",
+    "787.30237536.chunk.js.map": "/BegDev.github.io/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4646b93.css",
+    "static/js/main.1ed6fd52.js"
+  ]
+}
