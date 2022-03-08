@@ -58,7 +58,7 @@ const Home = () => {
             <h1 className="text-lg lg:text-2xl my-5 uppercase font-montserrat-bold text-green-500">
               About
             </h1>
-            <p className="text-md lg:text-lg font-bold  text-gray-700">
+            <div className="text-md lg:text-lg font-bold  text-gray-700">
             I am a student of the Turkmen Agricultural Institute.
             I am in the ranks of the programmers of the institute.
             I have been doing web programming for two years
@@ -71,10 +71,10 @@ const Home = () => {
               considerations of expediency. I try to be as much as possible
               productive developer. Basic competencies:
               (front-end), back-end, layout, interfaces.
-              frameworks, tools: <h1 className='text-green-600'>PHP 7, JavaScript, Python 3, Django, MySQL, Laravel, React,TailwindCss
+              frameworks, tools: <p className='text-green-600'>PHP 7, JavaScript, Python 3, Django, MySQL, Laravel, React,TailwindCss
               ,Operation System
-              </h1>
-            </p>
+              </p>
+            </div>
 
             <hr className="my-5" />
 

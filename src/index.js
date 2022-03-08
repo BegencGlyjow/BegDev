@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/tailwind.css'
-import WebRoute from './routes/WebRoute'
 import reportWebVitals from './reportWebVitals';
+import Home from './pages/Home/Home';
 
 ReactDOM.render(
   <React.StrictMode>
-    <WebRoute/>
+    <Home/>
   </React.StrictMode>,
   document.getElementById('root')
 );
